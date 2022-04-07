@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/mayraaoki">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=mayraaoki=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=mayraaoki&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayraaoki&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
