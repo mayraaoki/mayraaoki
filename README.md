@@ -1,6 +1,6 @@
 ### Hello!👋
 
-- 🔭 Atualmente estou em transição de carreira
+- 🔭 Atualmente estou em transição de área/carreira: Direito ➡️ Tecnologia
 - 🌱 Começando os estudos em JavaScript
 - 📫 E-mail para contato: mayra.aoki28@gmail.com
 - 😄 Pronomes: ela/dela
