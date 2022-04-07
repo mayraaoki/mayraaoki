@@ -1,10 +1,5 @@
 ### Hello!👋
 
-- 🔭 Atualmente estou em transição de área/carreira: Direito ➡️ Tecnologia
-- 🌱 Começando os estudos em JavaScript
-- 📫 E-mail para contato: mayra.aoki28@gmail.com
-- 😄 Pronomes: ela/dela
-
 <div align="center">
   <a href="https://github.com/mayraaoki">
   <img height="140em" width="48%" src="https://github-readme-stats.vercel.app/api?username=mayraaoki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
